@@ -8,6 +8,7 @@
 - 💪 I'm strongly focused on writing clean and extensible code
 
 <h3 align="center">Interesting projects</h3>
+
 - 🌟 [Images Transformator](https://github.com/Sladamos/ImagesTransformator) 🌟
 
 - 🌟 [Simple Spring Server](https://github.com/Sladamos/ServerTask) 🌟
@@ -24,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sladamos&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=Dockerfile,Roff" alt="sladamos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sladamos&show_icons=true&locale=en&count_private=true&theme=tokyonight&include_all_commits=true" alt="sladamos" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sladamos&show_icons=true&locale=en&count_private=true&theme=tokyonight&include_all_commits=true" alt="sladamos" /></p>
