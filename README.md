@@ -13,7 +13,7 @@
 
 - 🌟 [Simple Spring Server](https://github.com/Sladamos/ServerTask) 🌟
 
-- [Unity Platform Game](https://github.com/Sladamos/UnityPlatformGame)
+- [Unity 2D Platform Game](https://github.com/Sladamos/Unity2DPlatformGame)
 
 - [Bullet Hell](https://github.com/Sladamos/BulletHell)
 
