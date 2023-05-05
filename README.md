@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sławomir Adamowicz</h1>
 <h3 align="center">A future fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on [Multiplayer Moba]((link in the future)) and on [Dogs Detector]((link in the future))
+- 🔭 I’m currently working on Multiplayer Moba (link in the future) and on Dogs Detector (link in the future)
 
 - 🌱 I’m currently learning **Computer networks** and **Artifical Inteligence**
 
