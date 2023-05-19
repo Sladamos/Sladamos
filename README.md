@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sławomir Adamowicz</h1>
 <h3 align="center">A future fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on Multiplayer Moba (link in the future) and on Dogs Detector (link in the future)
+- 🔭 I’m currently working on Multiplayer MOBA game (link in the future)
 
-- 🌱 I’m currently learning **Computer networks** and **Artifical Inteligence**
+- 🌱 I’m currently learning **Computer networks** and **Artifical Intelligence**
 
 - 💪 I'm strongly focused on writing clean and extensible code
 
 <h3 align="center">Interesting projects</h3>
 
+- 🌟 [Dogs detector](https://github.com/Sladamos/DogsDetector) 🌟
+
 - 🌟 [Images Transformator](https://github.com/Sladamos/ImagesTransformator) 🌟
 
-- 🌟 [Simple Spring Server](https://github.com/Sladamos/ServerTask) 🌟
+- [Simple Spring Server](https://github.com/Sladamos/ServerTask)
 
 - [Unity 2D Platform Game](https://github.com/Sladamos/Unity2DPlatformGame)
 
