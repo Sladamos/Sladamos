@@ -9,7 +9,7 @@
 
 <h3 align="center">Interesting projects</h3>
 
-- 🌟 [Dogs detector](https://github.com/Sladamos/DogsDetector) 🌟
+- 🌟 [Dogs Detector](https://github.com/Sladamos/DogsDetector) 🌟
 
 - 🌟 [Images Transformator](https://github.com/Sladamos/ImagesTransformator) 🌟
 
