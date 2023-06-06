@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Multiplayer MOBA game (link in the future)
 
-- 🌱 I’m currently learning **Computer networks** and **Artifical Intelligence**
+- 🌱 I’m currently learning **Computer networks** and **Artificial Intelligence**
 
 - 💪 I'm strongly focused on writing clean and extensible code
 
