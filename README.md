@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Multiplayer MOBA game (link in the future)
 
-- 🌱 I’m currently learning **Computer networks** and **Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence** and **Docker & Kubernetes**
 
 - 💪 I'm strongly focused on writing clean and extensible code
 
@@ -37,6 +37,8 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
 </p>
 
 <h3 align="left">Front End</h3>
