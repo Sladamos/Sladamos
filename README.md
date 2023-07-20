@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Multiplayer MOBA game (link in the future)
 
-- 🌱 I’m currently learning **Artificial Intelligence** and **Docker & Kubernetes**
+- 🌱 I’m currently learning **NodeJS** and **MongoDB**
 
 - 💪 I'm strongly focused on writing clean and extensible code
 
