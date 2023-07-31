@@ -13,8 +13,6 @@
 
 - 🌟 [Images Transformator](https://github.com/Sladamos/ImagesTransformator) 🌟
 
-- [Simple Spring Server](https://github.com/Sladamos/ServerTask)
-
 - [Unity 2D Platform Game](https://github.com/Sladamos/Unity2DPlatformGame)
 
 - [Bullet Hell](https://github.com/Sladamos/BulletHell)
