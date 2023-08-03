@@ -60,6 +60,6 @@
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sladamos&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=Dockerfile,Roff" alt="sladamos" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sladamos&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=Dockerfile,Roff,Purebasic" alt="sladamos" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sladamos&show_icons=true&locale=en&count_private=true&theme=tokyonight&include_all_commits=true" alt="sladamos" /></p>
