@@ -9,6 +9,8 @@
 
 <h3 align="center">Interesting projects</h3>
 
+- 🌟 [Kingdom Simulation](https://github.com/Sladamos/KingdomSimulation) 🌟
+
 - 🌟 [Dogs Detector](https://github.com/Sladamos/DogsDetector) 🌟
 
 - 🌟 [Images Transformator](https://github.com/Sladamos/ImagesTransformator) 🌟
