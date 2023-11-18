@@ -15,12 +15,6 @@
 
 - 🌟 [Images Transformator](https://github.com/Sladamos/ImagesTransformator) 🌟
 
-- [Unity 2D Platform Game](https://github.com/Sladamos/Unity2DPlatformGame)
-
-- [Bullet Hell](https://github.com/Sladamos/BulletHell)
-
-- [Browser History Viewer](https://github.com/Sladamos/BrowserHistoryViewer)
-
 
 <h3 align="left">Languages</h3>
 <p align="left">
