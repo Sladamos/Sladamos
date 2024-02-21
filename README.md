@@ -9,11 +9,15 @@
 
 <h3 align="center">Interesting projects</h3>
 
+- 🌟 [Library API](https://github.com/Sladamos/LibraryAPI/) 🌟
+  
 - 🌟 [Kingdom Simulation](https://github.com/Sladamos/KingdomSimulation) 🌟
 
-- 🌟 [Dogs Detector](https://github.com/Sladamos/DogsDetector) 🌟
+- 🌟 [SLEMA](https://github.com/pikol93/PG_SLEMA/) 🌟
 
-- 🌟 [Images Transformator](https://github.com/Sladamos/ImagesTransformator) 🌟
+- [Dogs Detector](https://github.com/Sladamos/DogsDetector)
+
+- [Images Transformator](https://github.com/Sladamos/ImagesTransformator)
 
 
 <h3 align="left">Languages</h3>
