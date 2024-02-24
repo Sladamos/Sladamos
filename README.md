@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sławomir Adamowicz</h1>
 <h3 align="center">A future fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on Simulation architecture and physics.
+- 🔭 I’m currently working on Tool for Qualified Electronic Signature emulation
 
 - 🌱 I’m currently expanding my knowledge in **Software Architecture**
 
