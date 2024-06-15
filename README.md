@@ -13,7 +13,7 @@
   
 - 🌟 [Kingdom Simulation](https://github.com/Sladamos/KingdomSimulation) 🌟
 
-- 🌟 [SLEMA](https://github.com/pikol93/PG_SLEMA/) 🌟
+- 🌟 [SLEMA](https://github.com/Sladamos/SLEMA) 🌟
 
 - [Dogs Detector](https://github.com/Sladamos/DogsDetector)
 
