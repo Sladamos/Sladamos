@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sławomir Adamowicz</h1>
-<h3 align="center">An intern fullstack developer for Consdata from Poland</h3>
+<h3 align="center">An intern fullstack developer in Consdata</h3>
 
 - 🔭 I’m currently working on Bifurcation points detector
 
