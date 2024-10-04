@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Bifurcation points detector
 
-- 🌱 I’m currently expanding my knowledge in **Machine learning**
+- 🌱 I’m currently expanding my knowledge in **DevOps**
 
 - 💪 I'm strongly focused on writing clean and extensible code
 
@@ -45,14 +45,14 @@
 </p>
 </p>
 
-<h3 align="left">Front End</h3>
+<h3 align="left">FrontEnd</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/>
 </p>
 
-<h3 align="left">Back End</h3>
+<h3 align="left">BackEnd</h3>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg" alt="junit" width="40" height="40"/>
@@ -67,15 +67,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-</p>
-
-<h3 align="left">Machine learning</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
 </p>
 
 <h3 align="left">Other</h3>
