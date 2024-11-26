@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sławomir Adamowicz</h1>
-<h3 align="center">An intern fullstack developer in Consdata</h3>
+<h3 align="center">A junior fullstack developer in Consdata</h3>
 
-- 🔭 I’m currently working on Bifurcation points detector
+- 🔭 I’m currently working on Nothing special :c
 
-- 🌱 I’m currently expanding my knowledge in **DevOps**
+- 🌱 I’m currently expanding my knowledge in **GCP**
 
 - 💪 I'm strongly focused on writing clean and extensible code
 
