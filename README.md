@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sławomir Adamowicz</h1>
 <h3 align="center">A junior fullstack developer in Consdata</h3>
 
-- 🔭 I’m currently working on Nothing special :c
+- 🔭 I’m currently working on my Homepage and Manusteril
 
 - 🌱 I’m currently expanding my knowledge in **GCP**
 
