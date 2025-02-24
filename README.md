@@ -11,7 +11,7 @@
 
 - 🌟 [Library API](https://github.com/Sladamos/LibraryAPI/) 🌟
   
-- 🌟 [Kingdom Simulation](https://github.com/Sladamos/KingdomSimulation) 🌟
+- 🌟 [Raistopy](https://github.com/Sladamos/Raistopy) 🌟
 
 - 🌟 [SLEMA](https://github.com/Sladamos/SLEMA) 🌟
 
