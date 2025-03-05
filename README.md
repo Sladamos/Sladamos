@@ -9,15 +9,15 @@
 
 <h3 align="center">Interesting projects</h3>
 
-- 🌟 [Library API](https://github.com/Sladamos/LibraryAPI/) 🌟
+- 🌟 [CoronaryApp](https://github.com/Sladamos/CoronaryApp/) 🌟
   
 - 🌟 [Raistopy](https://github.com/Sladamos/Raistopy) 🌟
 
-- 🌟 [SLEMA](https://github.com/Sladamos/SLEMA) 🌟
+- 🌟 [XadesEmulator](https://github.com/Sladamos/XadesEmulator) 🌟
 
-- [Dogs Detector](https://github.com/Sladamos/DogsDetector)
+- [Library API](https://github.com/Sladamos/LibraryAPI)
 
-- [Images Transformator](https://github.com/Sladamos/ImagesTransformator)
+- [SLEMA](https://github.com/Sladamos/SLEMA) 
 
 
 <h3 align="left">Languages</h3>
