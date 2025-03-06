@@ -58,7 +58,6 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg" alt="junit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodeJS" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express.js" width="40" height="40"/>
 </p>
@@ -66,7 +65,6 @@
 <h3 align="left">Databases</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 </p>
