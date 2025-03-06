@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sławomir Adamowicz</h1>
 <h3 align="center">A junior fullstack developer in Consdata</h3>
 
-- 🔭 I’m currently working on my Homepage and Manusteril
+- 🔭 I’m currently working on my Homepage
 
-- 🌱 I’m currently expanding my knowledge in **GCP**
+- 🌱 I’m currently expanding my knowledge in **Tensorflow** and **Docker**
 
 - 💪 I'm strongly focused on writing clean and extensible code
 
 <h3 align="center">Interesting projects</h3>
 
+- 🌟 [Manusteril](https://github.com/Sladamos/Manusteril/) 🌟
+
 - 🌟 [CoronaryApp](https://github.com/Sladamos/CoronaryApp/) 🌟
   
 - 🌟 [Raistopy](https://github.com/Sladamos/Raistopy) 🌟
 
-- 🌟 [XadesEmulator](https://github.com/Sladamos/XadesEmulator) 🌟
+- [XadesEmulator](https://github.com/Sladamos/XadesEmulator)
 
 - [Library API](https://github.com/Sladamos/LibraryAPI)
 
