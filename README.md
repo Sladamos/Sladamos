@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sławomir Adamowicz</h1>
-<h3 align="center">A junior fullstack developer looking for job</h3>
+<h3 align="center">A junior fullstack developer working for Software Mind</h3>
 
 - 🔭 I’m currently working on my Homepage
 
